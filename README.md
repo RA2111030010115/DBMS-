@@ -45,7 +45,3 @@ The Online Organic Product Supply System is designed to provide customers with f
 ## Conclusion
 The Online Organic Supply project offers a solution to modern-day challenges by connecting farmers directly with customers through an online platform. This promotes the consumption of fresh organic produce, empowers local communities, and supports sustainable agriculture practices.
 
-## Bibliography
-1. [W3Schools](https://www.w3schools.com)
-2. [TutorialsPoint](https://www.tutorialspoint.com)
-3. Google and YouTube Tutorials
